@@ -1,0 +1,56 @@
+{
+  "Basic": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#006af3"
+  },
+  "Quotable Style Inverse": {
+    "backgroundColor": "#41474e",
+    "foregroundColor": "#fff"
+  },
+  "Blue Wave - Black Text": {
+    "backgroundColor": "#eee",
+    "captionColor": "#515151",
+    "waveColor": "#006af3"
+  },
+  "Bars": {
+    "pattern": "bars",
+    "foregroundColor": "#006af3"
+  },
+  "Rounded bars with bottom left text": {
+    "pattern": "roundBars",
+    "foregroundColor": "#006af3",
+    "captionAlign": "left",
+    "captionLeft": 60,
+    "captionRight": 640,
+    "captionBottom": 660,
+    "captionTop": null
+  },
+  "Bricks": {
+    "backgroundColor": "#006af3",
+    "foregroundColor": "#fff",
+    "pattern": "bricks"
+  },
+  "Equalizer on the bottom": {
+    "backgroundColor": "#222",
+    "foregroundColor": "#fff",
+    "pattern": "equalizer",
+    "captionTop": 40,
+    "captionBottom": 380,
+    "waveTop": 420,
+    "waveBottom": 720
+  },
+  "Bold italic blue (wear sunglasses)": {
+    "captionAlign": "right",
+    "captionTop": null,
+    "captionBottom": 660,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundColor": "#006af3",
+    "waveColor": "#fff",
+    "captionFont": "bold italic 52px 'Source Sans Pro'"
+  },
+  "Pixelated (don't use these colors)": {
+    "backgroundColor": "#ccc",
+    "foregroundColor": "#006af3",
+    "pattern": "pixel"
+  }
