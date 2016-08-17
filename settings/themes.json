@@ -15,6 +15,16 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "KBIA White":{
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "kbia-white.png",
+    "foregroundColor": "#006af3",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#006af3"
