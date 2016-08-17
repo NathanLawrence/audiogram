@@ -26,6 +26,13 @@ module.exports = {
     { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Light.ttf"), weight: 300 },
     { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Bold.ttf"), weight: "bold" },
     { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Italic.ttf"), style: "italic" },
-    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-BoldItalic.ttf"), weight: "bold", style: "italic" }
+    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-BoldItalic.ttf"), weight: "bold", style: "italic" },
+    { family: "Lato", file: path.join(__dirname, "fonts", "Lato-Regular.ttf")},
+    { family: "Lato", file: path.join(__dirname, "fonts", "Lato-Light.ttf"), weight: 300 },
+    { family: "Lato", file: path.join(__dirname, "fonts", "Lato-Italic.ttf"), style: "italic" },
+    { family: "Lato", file: path.join(__dirname, "fonts", "Lato-LightItalic.ttf"), weight: 300, style: "italic" },
+    { family: "Lato", file: path.join(__dirname, "fonts", "Lato-Bold.ttf"), weight: "bold" },
+    { family: "Lato", file: path.join(__dirname, "fonts", "Lato-BoldItalic.ttf"), weight: "bold", style: "italic" },
+    { family: "Lato", file: path.join(__dirname, "fonts", "Lato-Black.ttf"), weight: "black" }
   ]
 };

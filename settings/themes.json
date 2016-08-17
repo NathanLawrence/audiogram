@@ -9,7 +9,7 @@
     "waveTop": 150,
     "waveBottom": 420,
     "captionTop": 470,
-    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionFont": "300 52px 'Lato'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
@@ -21,7 +21,8 @@
     "captionRight": 1220,
     "captionLeft": 640,
     "backgroundImage": "kbia-white.png",
-    "foregroundColor": "#006af3",
+    "captionColor": "#515151",
+    "waveColor": "#006af3",
     "waveBottom": 660,
     "waveTop": 320
   },
