@@ -23,6 +23,7 @@
     "backgroundImage": "kbia-white.png",
     "captionColor": "#515151",
     "waveColor": "#006af3",
+    "pattern": "bars",
     "waveBottom": 660,
     "waveTop": 320
   },
@@ -35,6 +36,32 @@
     "captionColor": "#515151",
     "captionFont": "300 52px 'Lato'",
     "waveColor": "#006af3",
+    "pattern": "bars",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "KBIA Gray":{
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "kbia-gray.png",
+    "captionColor": "#fff",
+    "waveColor": "#fff",
+    "pattern": "bars",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "KBIA gray - Light Text":{
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "kbia-gray.png",
+    "captionColor": "#fff",
+    "captionFont": "300 52px 'Lato'",
+    "waveColor": "#fff",
+    "pattern": "bars",
     "waveBottom": 660,
     "waveTop": 320
   },
@@ -50,16 +77,6 @@
     "backgroundColor": "#eee",
     "captionColor": "#515151",
     "waveColor": "#006af3"
-  },
-  "Background image with top right text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
   },
   "Bars": {
     "pattern": "bars",
