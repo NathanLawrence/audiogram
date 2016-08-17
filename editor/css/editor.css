@@ -187,11 +187,11 @@ g.background line {
 }
 
 g.foreground path {
-  fill: #006af3;
+  fill: #fff;
 }
 
 g.foreground line {
-  stroke: #006af3;
+  stroke: #fff;
 }
 
 g.brush .extent {
