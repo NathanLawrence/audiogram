@@ -175,7 +175,7 @@ input[type='text'] {
 /* Minimap */
 svg {
   border-top: 1px solid #444;
-  background-color: #dedede;
+  background-color: #006af3;
 }
 
 g.background path {
@@ -187,11 +187,11 @@ g.background line {
 }
 
 g.foreground path {
-  fill: #de1e3d;
+  fill: #006af3;
 }
 
 g.foreground line {
-  stroke: #de1e3d;
+  stroke: #006af3;
 }
 
 g.brush .extent {
@@ -201,7 +201,7 @@ g.brush .extent {
 
 g.brush line {
   stroke-width: 3px;
-  stroke: #de1e3d;
+  stroke: #006af3;
 }
 
 g.time {
@@ -245,7 +245,7 @@ g.time line {
 #loading-message {
   font-size: 24px;
   text-align: center;
-  color: #de1e3d;
+  color: #006af3;
 }
 
 #loading-bars {
@@ -257,7 +257,7 @@ g.time line {
 }
 
 #loading-bars > div {
-  background-color: #de1e3d;
+  background-color: #006af3;
   height: 100%;
   width: 16px;
   margin-right: 3px;
