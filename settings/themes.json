@@ -52,7 +52,7 @@
     "waveBottom": 660,
     "waveTop": 320
   },
-  "KBIA gray - Light Text":{
+  "KBIA Gray - Light Text":{
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
@@ -64,5 +64,17 @@
     "pattern": "bars",
     "waveBottom": 660,
     "waveTop": 320
-  }
+  },
+  "Intersection White":{
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "intersection-white.png",
+    "captionColor": "#515151",
+    "waveColor": "#7a9fd3",
+    "pattern": "bars",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
 }
