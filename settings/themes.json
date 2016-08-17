@@ -9,7 +9,7 @@
     "waveTop": 150,
     "waveBottom": 420,
     "captionTop": 470,
-    "captionFont": "300 52px 'Lato'",
+    "captionFont": "52px 'Lato'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
@@ -22,6 +22,18 @@
     "captionLeft": 640,
     "backgroundImage": "kbia-white.png",
     "captionColor": "#515151",
+    "waveColor": "#006af3",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "KBIA White - Light Text":{
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "kbia-white.png",
+    "captionColor": "#515151",
+    "captionFont": "300 52px 'Lato'",
     "waveColor": "#006af3",
     "waveBottom": 660,
     "waveTop": 320
