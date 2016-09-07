@@ -65,6 +65,18 @@
     "waveBottom": 660,
     "waveTop": 320
   },
+  "Views of the News":{
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "views-solo-dark.png",
+    "captionColor": "#ffffff",
+    "waveColor": "#ffffff",
+    "pattern": "bars",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
   "Intersection White":{
     "captionAlign": "right",
     "captionTop": 60,
