@@ -77,6 +77,18 @@
     "waveBottom": 660,
     "waveTop": 320
   },
+  "True False Solo Dark":{
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "tf-solo-dark.png",
+    "captionColor": "#ffffff",
+    "waveColor": "#ffffff",
+    "pattern": "bars",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
   "Intersection White":{
     "captionAlign": "right",
     "captionTop": 60,
