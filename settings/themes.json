@@ -111,6 +111,8 @@
     "captionLeft": 960,
     "backgroundImage": "mohealth-map-boonville.png",
     "captionFont": "78px 'Lato'",
+    "captionLineHeight": 78,
+    "captionLineSpacing": 10.5,
     "captionColor": "#d9534f",
     "waveColor": "#d9534f",
     "pattern": "wave",
