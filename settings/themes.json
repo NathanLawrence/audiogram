@@ -110,10 +110,11 @@
     "captionRight": 1830,
     "captionLeft": 960,
     "backgroundImage": "mohealth-map-boonville.png",
+    "captionFont": "78px 'Lato'",
     "captionColor": "#d9534f",
     "waveColor": "#d9534f",
     "pattern": "wave",
     "waveBottom": 1440,
-    "waveTop": 360
+    "waveTop": 720
   }
 }
