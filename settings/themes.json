@@ -113,7 +113,7 @@
     "captionColor": "#d9534f",
     "waveColor": "#d9534f",
     "pattern": "wave",
-    "waveBottom": 960,
-    "waveTop": 200
+    "waveBottom": 1920,
+    "waveTop": 800
   }
 }
