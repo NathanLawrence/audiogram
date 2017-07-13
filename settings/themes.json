@@ -101,4 +101,19 @@
     "waveBottom": 660,
     "waveTop": 320
   }
+  ,
+  "Mo Health Map Boonville":{
+    "width": 1920,
+    "height": 1080,
+    "captionAlign": "right",
+    "captionTop": 90,
+    "captionRight": 1830,
+    "captionLeft": 960,
+    "backgroundImage": "mohealth-map-boonvile.png",
+    "captionColor": "#d9534f",
+    "waveColor": "#d9534f",
+    "pattern": "wave",
+    "waveBottom": 960,
+    "waveTop": 200
+  }
 }
